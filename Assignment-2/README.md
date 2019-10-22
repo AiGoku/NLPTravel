@@ -7,4 +7,4 @@
 
 ### DFS：深度搜索，先进后出，时间复杂度O（$b^d$)，空间复杂度O（$b*d$)
 
-# $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+[https://latex.codecogs.com/gif.latex?%24%24x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D%24%24]
