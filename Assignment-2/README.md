@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # 决策问题转化为搜索问题
 
 ### BFS：广度搜索，先进先出，时间复杂度O（$b^d$)，空间复杂度O（$b^d$)
