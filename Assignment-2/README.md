@@ -6,4 +6,8 @@
 
 ### DFS：深度搜索，先进后出，时间复杂度O（$b^d$)，空间复杂度O（$b*d$)
 
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+$$
+\ begin
+x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+\ end
+$$
