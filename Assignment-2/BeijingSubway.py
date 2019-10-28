@@ -12,8 +12,10 @@ print(type(json_obj))
 
 #print(json_obj['l']['ln'])
 print(json_obj['l'])
-for i in json_obj['l']:
-
-    pass
+for line in json_obj['l']:
+    #print(line["ln"])
+    for station in line["st"]:
+        print(station['n'])
+        print(station['sl'])
 
 
