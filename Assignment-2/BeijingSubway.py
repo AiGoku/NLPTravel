@@ -1,5 +1,4 @@
 import requests
-import jsonpath
 import json
 import math
 import networkx as nx
