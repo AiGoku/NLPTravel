@@ -10,4 +10,7 @@ NLP学习之旅
 ##### [第3节 机器学习及模型评价初步](https://github.com/TheOldEagle/NLPTravel/tree/master/Assignment-3)
 
 ##### [第4节 神经网络及其训练算法介绍](https://github.com/TheOldEagle/NLPTravel/tree/master/Assignment-4)
+
+
+##### [第6节 Cnn](https://github.com/TheOldEagle/NLPTravel/tree/master/Assignment-6)
 更新中...
