@@ -13,4 +13,8 @@ NLP学习之旅
 
 
 ##### [第6节 Cnn](https://github.com/TheOldEagle/NLPTravel/tree/master/Assignment-6)
+
+##### [第7节 Rnn](https://github.com/TheOldEagle/NLPTravel/tree/master/Assignment-7)
+
+##### [第8节 sequence2sequence 和神经语言模型进阶](https://github.com/TheOldEagle/NLPTravel/tree/master/Assignment-8)
 更新中...
